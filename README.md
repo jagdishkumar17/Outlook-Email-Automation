@@ -14,7 +14,7 @@ Steps to follow:
   {
     "Body": "<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. </p>",
     "Recipients": "test@gmail.com;test1@gmail.com",
-    "Subject": "What is Lorem Ipsum?
+    "Subject": "What is Lorem Ipsum?"
   }
 ]
   
