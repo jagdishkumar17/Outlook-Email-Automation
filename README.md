@@ -2,7 +2,7 @@
 RPA For Outlook Email Automation with attchments using UiPath
 
 Steps to follow:
-## Create following folder/files in c derive :
+## Create following folder/files in c drive :
     a. C:\InvoiceEmailActivities
     b. C:\InvoiceEmailActivities\Attachments
     c. C:\InvoiceEmailActivities\EmailSettings.json
