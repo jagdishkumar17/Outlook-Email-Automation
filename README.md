@@ -19,3 +19,12 @@ Steps to follow:
 ]
   
 ```  
+
+# Refrences 
+``` 
+https://studio.uipath.com/docs/introduction
+https://www.tutorialspoint.com/uipath/
+https://www.guru99.com/robotic-process-automation-tutorial.html#9
+https://www.uipath.com/blog/learning-robotic-process-automation-through-video-tutorials
+https://intellipaat.com/tutorial/rpa-tutorial/robotic-process-automation-introduction/
+``` 
